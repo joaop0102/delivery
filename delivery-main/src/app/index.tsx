@@ -11,10 +11,10 @@ export default function Index() {
 
 const styles = StyleSheet.create({
     container: {
-        backgroundColor: '#002776', // Azul oficial da bandeira
+        backgroundColor: '#002776', 
         flex: 1,
         padding: 24,
-        justifyContent: 'center', // Centraliza o card verticalmente na tela
-        alignItems: 'center', // Centraliza o card horizontalmente
+        justifyContent: 'center', 
+        alignItems: 'center', 
     }
 });

@@ -39,9 +39,9 @@ const styles = StyleSheet.create({
   avatar: {
     width: 150,
     height: 150,
-    borderRadius: 75, // Metade da largura/altura para deixar a imagem perfeitamente redonda
+    borderRadius: 75,
     borderWidth: 4,
-    borderColor: '#ffdf00', // Borda de ouro da copa
+    borderColor: '#ffdf00', 
     marginBottom: 20,
   },
   title: {
